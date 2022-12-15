@@ -1,0 +1,49 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.container{
+    margin:auto;
+	width:90%;
+}
+.section{
+	background:url("image/testimonials-bg.jpg");
+}
+.sem-img{
+	display:flex;
+	justify-content:center;
+}
+
+img{
+	max-width:100%;
+	border-radius:50%;
+    padding:10px;
+}
+.row{
+	text-align:center;
+	padding-top:80px;
+	padding-bottom:150px;
+}
+.row img{    
+	max-width:10%;
+}
+.name h1{
+	color:#fff;
+	padding:5px;
+}
+.name p{
+	color:#fff;
+	
+}
+.para p{
+	color:#fff;
+	
+}
+.para{
+	display:flex;
+	padding:10px;
+}
+i{
+	color:#fff;
+}
